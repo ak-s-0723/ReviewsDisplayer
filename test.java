@@ -1,6 +1,9 @@
 public class test {
- 
- public test(float f) {
+    public test() {
+    System.out.println("Inside Test Class");
+  }
+
+  public test(float f) {
     System.out.println(f);
   }
 
