@@ -1,1 +1,1 @@
-Class 3 , 30 mins are gone
+Class 3 , 1 hr 15 min are gone
