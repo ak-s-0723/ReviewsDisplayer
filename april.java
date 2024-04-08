@@ -1,1 +1,1 @@
-Class 3 is going on
+Class 3 , 30 mins are gone
