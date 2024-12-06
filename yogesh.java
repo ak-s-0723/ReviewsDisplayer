@@ -1,1 +1,1 @@
-public class Yogesh {}
+public class Yogesh { public static void main() }
