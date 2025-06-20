@@ -1,4 +1,2 @@
 vaibhav
 amrita
-saksham
-aditya
