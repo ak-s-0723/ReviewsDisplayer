@@ -1,7 +1,7 @@
 public class Helper {
+    private String phoneNumber;
     private Integer id;
     private String address;
-    private String name;
     public Helper() {
        name = "Anurag Khanna";
        address = NULL;
