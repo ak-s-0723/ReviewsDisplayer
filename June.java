@@ -1,1 +1,0 @@
-June is very Hot
