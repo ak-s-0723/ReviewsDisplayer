@@ -1,2 +1,5 @@
-Taking class in June
-bye bye
+public class July {
+    public static void main(String[] args) {
+
+    }
+}
